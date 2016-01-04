@@ -11,7 +11,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MyActivity extends AppCompatActivity implements OnQueryTextListener, OnActionExpandListener {
-
+    //T
     private TextView texto;
 
     @Override
